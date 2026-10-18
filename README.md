@@ -1,4 +1,4 @@
-# 100 Days of C++
+# 100 Days of CPP
 
 This repository documents my journey of learning C++ from the fundamentals to advanced concepts through hands-on coding and projects.
 
